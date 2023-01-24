@@ -1,0 +1,10 @@
+body{
+
+}
+.lol{
+	height: 100px;
+	width: 80px;
+	background-color:darkred ;
+	color: rgba(20, 40, 90, 0.5);
+	font-size: 30px;
+}
